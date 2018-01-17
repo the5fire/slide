@@ -2,7 +2,7 @@
 based on 
 * [remark.js](https://remarkjs.com/#1)
 * Redis
-* ServerSourceEvent
+* ServerSentEvent
 
 
 
