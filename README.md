@@ -9,4 +9,4 @@ based on
 ## Screenshot
 
 ![pc](images/pc.png)
-![mobile](images/mobile.png)
+![mobile](images/mobile.jpeg)
